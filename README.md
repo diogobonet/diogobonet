@@ -2,7 +2,7 @@
 
 - 👴 Tenho 18 anos
 - 📚 Atualmente estudando Engenharia de Software, PUCPR em Curitiba
-- 👀 Interessado na área de Front-end e Full Stack
+- 👀 Interessado na área de Full Stack
 - ✔ Linguagens que programo: JavaScript, Python, PHP
 - 💻 Linguagens que desenvolvo: HTML, CSS
 - 👋 Você pode me encontrar no Instagram @diogo.bonet
